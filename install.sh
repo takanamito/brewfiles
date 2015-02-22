@@ -81,5 +81,6 @@ brew cask install skype
 brew cask install vlc
 brew cask install flash-player
 brew cask install macdown
+brew cask install dropbox
 
 brew cleanup
