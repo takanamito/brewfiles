@@ -15,3 +15,6 @@ do
         brew $line
     fi
 done < Brewfile
+
+# karabiner
+source karabiner.sh
