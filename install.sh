@@ -1,5 +1,11 @@
 #!/bin/sh -e
 
+# command line tool
+xcode-select --install
+
+# homebrew
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+
 brew update
 brew upgrade
 
@@ -73,7 +79,6 @@ brew cask install openoffice
 brew cask install seashore
 brew cask install skype
 brew cask install vlc
-brew cask install 1password
 brew cask install flash-player
 brew cask install macdown
 
