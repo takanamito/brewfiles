@@ -32,7 +32,7 @@ install memcached
 install mercurial
 install mhash
 install mogenerator
-install mysql56
+install mysql
 install nginx
 install php55
 install php55-apcu
