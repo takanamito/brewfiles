@@ -51,6 +51,7 @@ install xz
 install yasm
 install zlib
 
+cask install java
 cask install google-chrome
 cask install firefox
 cask install iterm2
