@@ -56,7 +56,7 @@ cask install google-chrome
 cask install firefox
 cask install iterm2
 cask install sequel-pro
-cask install intellij-idea
+cask install intellij-idea-ce
 cask install alfred
 cask install bettertouchtool
 cask install firefox
