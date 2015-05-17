@@ -74,5 +74,6 @@ cask install vlc
 cask install flash-player
 cask install macdown
 cask install dropbox
+cask install kobito
 
 cleanup
