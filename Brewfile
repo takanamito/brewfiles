@@ -52,7 +52,7 @@ install yasm
 install zlib
 
 cask install java
-cask install google-chrome
+cask install --caskroom=/Applications google-chrome
 cask install firefox
 cask install iterm2
 cask install sequel-pro
