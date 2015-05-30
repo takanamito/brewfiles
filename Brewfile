@@ -50,6 +50,8 @@ install x264
 install xz
 install yasm
 install zlib
+install rbenv
+install ruby-build
 
 cask install java
 cask install --caskroom=/Applications google-chrome
