@@ -8,4 +8,7 @@
 
 ``` bash
 $ ./install.sh
+$ ./karabiner.sh
 ```
+
+bettertouchtool.txtをbettertouchtool
