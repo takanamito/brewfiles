@@ -52,6 +52,7 @@ install yasm
 install zlib
 install rbenv
 install ruby-build
+install phantomjs
 
 cask install java
 cask install --caskroom=/Applications google-chrome
@@ -77,5 +78,6 @@ cask install flash-player
 cask install macdown
 cask install dropbox
 cask install kobito
+cask install slack
 
 cleanup
