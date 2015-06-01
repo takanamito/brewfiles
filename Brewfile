@@ -53,6 +53,7 @@ install zlib
 install rbenv
 install ruby-build
 install phantomjs
+install npm
 
 cask install java
 cask install --caskroom=/Applications google-chrome
