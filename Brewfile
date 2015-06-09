@@ -80,5 +80,6 @@ cask install macdown
 cask install dropbox
 cask install kobito
 cask install slack
+cask install mysqlworkbench
 
 cleanup
