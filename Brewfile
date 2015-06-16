@@ -81,5 +81,6 @@ cask install dropbox
 cask install kobito
 cask install slack
 cask install mysqlworkbench
+cask install sourcetree
 
 cleanup
