@@ -12,6 +12,7 @@ install automake
 install bash
 install cmake
 install composer
+install ctags
 install faac
 install freetype
 install gettext
