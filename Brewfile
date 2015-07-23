@@ -6,10 +6,11 @@ tap homebrew/dupes
 tap homebrew/versions
 tap josegonzalez/php
 
-install brew-cask
+install ansible
 install autoconf
 install automake
 install bash
+install brew-cask
 install cmake
 install composer
 install ctags
