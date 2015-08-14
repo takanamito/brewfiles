@@ -18,6 +18,7 @@ install faac
 install freetype
 install gettext
 install git
+install github-desktop
 install icu4c
 install imagemagick
 install jpeg
