@@ -86,5 +86,6 @@ cask install slack
 cask install mysqlworkbench
 cask install sourcetree
 cask install toggldesktop
+cask install gyazo
 
 cleanup
