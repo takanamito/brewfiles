@@ -57,6 +57,9 @@ install rbenv
 install ruby-build
 install phantomjs
 install npm
+install zsh
+install zsh-completions
+install peco
 
 cask install java
 cask install --caskroom=/Applications google-chrome
