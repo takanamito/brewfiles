@@ -14,11 +14,13 @@ install brew-cask
 install cmake
 install composer
 install ctags
+install direnv
 install faac
 install freetype
 install gettext
 install git
 install github-desktop
+install heroku-toolbelt
 install icu4c
 install imagemagick
 install jpeg
@@ -37,15 +39,20 @@ install mhash
 install mogenerator
 install mysql
 install nginx
-install php55
-install php55-apcu
+install npm
 install openssl
 install ossp-uuid
+install peco
 install pcre
+install phantomjs
+install php55
+install php55-apcu
 install pkg-config
+install rbenv
 install readline
 install reattach-to-user-namespace
 install redis
+install ruby-build
 install tmux
 install vim
 install wget
@@ -53,13 +60,8 @@ install x264
 install xz
 install yasm
 install zlib
-install rbenv
-install ruby-build
-install phantomjs
-install npm
 install zsh
 install zsh-completions
-install peco
 
 cask install java
 cask install --caskroom=/Applications google-chrome
