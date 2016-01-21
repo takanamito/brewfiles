@@ -21,6 +21,7 @@ $ ln -s /usr/local/share/git-core/contrib/diff-highlight/diff-highlight /usr/loc
 
 ### キーボード設定
 - ショートカット->spotlight検索のショートカットをオフに
+- ショートカット->入力ソースの前の入力ソースを選択をオフに
 
 ## bettertouchtool
 bettertouchtool.txtをbettertouchtoolにimport
