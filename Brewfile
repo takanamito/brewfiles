@@ -24,6 +24,7 @@ install heroku-toolbelt
 install icu4c
 install imagemagick
 install jpeg
+install kindle
 install lame
 install libevent
 install libgpg-error
