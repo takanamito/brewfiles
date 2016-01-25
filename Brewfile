@@ -34,6 +34,7 @@ install mhash
 install mogenerator
 install mysql
 install nginx
+install npm
 install php55
 install php55-apcu
 install openssl
