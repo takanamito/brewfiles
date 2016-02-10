@@ -7,6 +7,7 @@ tap homebrew/versions
 tap josegonzalez/php
 
 install ansible
+install audacity
 install autoconf
 install automake
 install bash
