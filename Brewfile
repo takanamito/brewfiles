@@ -55,6 +55,7 @@ install reattach-to-user-namespace
 install redis
 install ruby-build
 install tmux
+install tree
 install vim
 install wget
 install x264
