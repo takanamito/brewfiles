@@ -15,6 +15,7 @@ install cmake
 install composer
 install ctags
 install direnv
+install dockertoolbox
 install faac
 install freetype
 install gettext
