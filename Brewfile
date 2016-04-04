@@ -7,6 +7,7 @@ tap homebrew/versions
 tap josegonzalez/php
 
 install ansible
+install audacity
 install autoconf
 install automake
 install bash
@@ -17,6 +18,7 @@ install ctags
 install direnv
 install dockertoolbox
 install faac
+install ffmpeg --with-x265
 install freetype
 install gettext
 install git
@@ -25,6 +27,7 @@ install heroku-toolbelt
 install icu4c
 install imagemagick
 install jpeg
+install kindle
 install lame
 install libevent
 install libgpg-error
