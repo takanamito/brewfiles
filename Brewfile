@@ -23,6 +23,7 @@ install freetype
 install gettext
 install git
 install github-desktop
+install gpg2
 install heroku-toolbelt
 install icu4c
 install imagemagick
@@ -57,6 +58,7 @@ install readline
 install reattach-to-user-namespace
 install redis
 install ruby-build
+install tig
 install tmux
 install tree
 install vim
@@ -70,7 +72,7 @@ install zsh-completions
 
 cask install java
 cask install --caskroom=/Applications google-chrome
-cask install firefox
+cask install --caskroom=/Applications firefox
 cask install iterm2
 cask install sequel-pro
 cask install intellij-idea-ce
