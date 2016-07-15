@@ -44,6 +44,7 @@ install mhash
 install mogenerator
 install mysql
 install nginx
+install nkf
 install npm
 install openssl
 install ossp-uuid
