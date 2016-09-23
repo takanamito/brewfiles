@@ -59,6 +59,7 @@ install readline
 install reattach-to-user-namespace
 install redis
 install ruby-build
+install terraform
 install tig
 install tmux
 install tree
