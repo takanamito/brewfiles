@@ -24,6 +24,7 @@ install gettext
 install git
 install github-desktop
 install gpg2
+install graphviz
 install heroku-toolbelt
 install icu4c
 install imagemagick
