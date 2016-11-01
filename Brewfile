@@ -10,6 +10,7 @@ install ansible
 install audacity
 install autoconf
 install automake
+install awscli
 install bash
 install brew-cask
 install cmake
