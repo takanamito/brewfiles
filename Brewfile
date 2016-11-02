@@ -30,6 +30,7 @@ install heroku-toolbelt
 install icu4c
 install imagemagick
 install jpeg
+install jq
 install kindle
 install lame
 install libevent
