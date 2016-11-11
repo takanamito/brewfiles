@@ -17,6 +17,8 @@ install cmake
 install composer
 install ctags
 install direnv
+install docker
+install docke-compose
 install dockertoolbox
 install faac
 install ffmpeg --with-x265
