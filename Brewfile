@@ -95,7 +95,6 @@ cask install openoffice
 cask install seashore
 cask install skype
 cask install vlc
-cask install flash-player
 cask install macdown
 cask install dropbox
 cask install kobito
