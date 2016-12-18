@@ -14,12 +14,10 @@ install awscli
 install bash
 install brew-cask
 install cmake
+install cmd-eikana
 install composer
 install ctags
 install direnv
-install docker
-install docke-compose
-install dockertoolbox
 install faac
 install ffmpeg --with-x265
 install freetype
