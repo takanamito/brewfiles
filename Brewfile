@@ -20,6 +20,7 @@ install ctags
 install direnv
 install faac
 install ffmpeg --with-x265
+install flux
 install freetype
 install gettext
 install git
