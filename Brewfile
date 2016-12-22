@@ -47,7 +47,7 @@ install mercurial
 install mhash
 install mogenerator
 install mysql
-install nginx
+install nginx-build
 install nkf
 install npm
 install openssl
