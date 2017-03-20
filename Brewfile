@@ -72,6 +72,7 @@ install vim
 install wget
 install x264
 install xz
+install yarn
 install yasm
 install zlib
 install zsh
