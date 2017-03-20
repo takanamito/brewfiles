@@ -25,3 +25,6 @@ $ ln -s /usr/local/share/git-core/contrib/diff-highlight/diff-highlight /usr/loc
 
 ## bettertouchtool
 bettertouchtool.txtをbettertouchtoolにimport
+
+## Karabiner-Elements
+ユーザーとグループ -> ログイン項目に追加

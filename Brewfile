@@ -14,14 +14,13 @@ install awscli
 install bash
 install brew-cask
 install cmake
+install cmd-eikana
 install composer
 install ctags
 install direnv
-install docker
-install docke-compose
-install dockertoolbox
 install faac
 install ffmpeg --with-x265
+install flux
 install freetype
 install gettext
 install git
@@ -48,7 +47,7 @@ install mercurial
 install mhash
 install mogenerator
 install mysql
-install nginx
+install nginx-build
 install nkf
 install npm
 install openssl
@@ -98,7 +97,6 @@ cask install openoffice
 cask install seashore
 cask install skype
 cask install vlc
-cask install flash-player
 cask install macdown
 cask install dropbox
 cask install kobito
