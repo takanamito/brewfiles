@@ -6,6 +6,7 @@ tap homebrew/dupes
 tap homebrew/versions
 tap josegonzalez/php
 
+install ack
 install ansible
 install audacity
 install autoconf
