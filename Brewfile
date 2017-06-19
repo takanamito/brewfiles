@@ -13,6 +13,7 @@ install automake
 install awscli
 install bash
 install brew-cask
+install chromedriver
 install cmake
 install cmd-eikana
 install composer
