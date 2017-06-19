@@ -6,6 +6,7 @@ tap homebrew/dupes
 tap homebrew/versions
 tap josegonzalez/php
 
+install ack
 install ansible
 install audacity
 install autoconf
@@ -72,6 +73,7 @@ install vim
 install wget
 install x264
 install xz
+install yarn
 install yasm
 install zlib
 install zsh
