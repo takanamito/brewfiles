@@ -65,6 +65,7 @@ install readline
 install reattach-to-user-namespace
 install redis
 install ruby-build
+install sbt
 install terraform
 install tig
 install tmux
