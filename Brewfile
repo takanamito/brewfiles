@@ -97,6 +97,7 @@ cask install virtualbox
 cask install openoffice
 cask install seashore
 cask install skype
+cask install visual-studio-code
 cask install vlc
 cask install macdown
 cask install dropbox
