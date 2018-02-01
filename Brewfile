@@ -44,6 +44,8 @@ install libtool
 install libvo-aacenc
 install libyaml
 install mcrypt
+install mecab
+install mecab-ipadic
 install memcached
 install mercurial
 install mhash
