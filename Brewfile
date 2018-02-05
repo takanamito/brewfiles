@@ -62,6 +62,7 @@ install phantomjs
 install php55
 install php55-apcu
 install pkg-config
+install postman
 install rbenv
 install readline
 install reattach-to-user-namespace
