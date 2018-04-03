@@ -83,18 +83,18 @@ install zlib
 install zsh
 install zsh-completions
 
+cask install bitbar
 cask install java
-cask install --caskroom=/Applications google-chrome
-cask install --caskroom=/Applications firefox
+cask install google-chrome
+cask install firefox
 cask install iterm2
 cask install sequel-pro
 cask install intellij-idea-ce
 cask install alfred
 cask install bettertouchtool
-cask install firefox
 cask install sublime-text
 cask install kindle
-cask install karabiner
+cask install karabiner-elements
 cask install seil
 cask install google-japanese-ime
 cask install vagrant
