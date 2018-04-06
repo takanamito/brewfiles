@@ -25,11 +25,13 @@ install ffmpeg --with-x265
 install flux
 install freetype
 install gettext
+install ghq
 install git
 install github-desktop
 install gpg2
 install graphviz
 install heroku-toolbelt
+install hub
 install icu4c
 install imagemagick
 install jpeg
