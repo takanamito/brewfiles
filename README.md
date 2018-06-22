@@ -53,3 +53,8 @@ $ ln -s /usr/local/share/git-core/contrib/diff-highlight/diff-highlight /usr/loc
 - Advanced
   - 「All」「Web address」「contains」「特定のオーガニゼーションのURL」
   - Always use this browserでSafariを選択
+
+### SequalPro
+
+- 別の端末から「SequelProFavorites.plist」を持ってきてインポート
+- パスワードは頑張って手で移行するしかない
