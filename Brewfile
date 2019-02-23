@@ -6,8 +6,6 @@ tap homebrew/dupes
 tap homebrew/versions
 
 install ack
-install ansible
-install audacity
 install autoconf
 install automake
 install awscli
@@ -15,8 +13,6 @@ install bash
 install brew-cask
 install chromedriver
 install cmake
-install cmd-eikana
-install composer
 install ctags
 install direnv
 install faac
@@ -29,14 +25,11 @@ install git
 install github-desktop
 install gpg2
 install graphviz
-install heroku-toolbelt
 install hub
 install icu4c
 install imagemagick
 install jpeg
 install jq
-install kindle
-install lame
 install libevent
 install libgpg-error
 install libksba
@@ -65,10 +58,7 @@ install postman
 install rbenv
 install readline
 install reattach-to-user-namespace
-install redis
 install ruby-build
-install sbt
-install terraform
 install tig
 install tmux
 install tree
@@ -92,23 +82,15 @@ cask install intellij-idea-ce
 cask install alfred
 cask install bettertouchtool
 cask install sublime-text
-cask install kindle
 cask install karabiner-elements
 cask install seil
 cask install google-japanese-ime
 cask install vagrant
 cask install virtualbox
 cask install openoffice
-cask install seashore
-cask install skype
 cask install visual-studio-code
-cask install vlc
 cask install macdown
-cask install dropbox
-cask install kobito
 cask install slack
-cask install mysqlworkbench
-cask install sourcetree
 cask install toggldesktop
 cask install gyazo
 
