@@ -4,7 +4,6 @@ upgrade
 tap phinze/cask
 tap homebrew/dupes
 tap homebrew/versions
-tap josegonzalez/php
 
 install ack
 install ansible
@@ -61,8 +60,6 @@ install ossp-uuid
 install peco
 install pcre
 install phantomjs
-install php55
-install php55-apcu
 install pkg-config
 install postman
 install rbenv
