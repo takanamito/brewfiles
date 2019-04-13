@@ -39,8 +39,6 @@ cask install sublime-text
 cask install karabiner-elements
 cask install seil
 cask install google-japanese-ime
-cask install vagrant
-cask install virtualbox
 cask install openoffice
 cask install visual-studio-code
 cask install macdown
