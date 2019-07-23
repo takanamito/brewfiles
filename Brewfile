@@ -37,12 +37,10 @@ cask install alfred
 cask install bettertouchtool
 cask install sublime-text
 cask install karabiner-elements
-cask install seil
 cask install google-japanese-ime
 cask install openoffice
 cask install visual-studio-code
 cask install macdown
-cask install toggldesktop
 cask install gyazo
 
 cleanup
