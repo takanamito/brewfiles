@@ -15,6 +15,7 @@ install hub
 install jq
 install nkf
 install peco
+install postgresql
 install rbenv
 install readline
 install reattach-to-user-namespace
