@@ -43,17 +43,6 @@ $ ln -s /usr/local/share/git-core/contrib/diff-highlight/diff-highlight /usr/loc
 - `~/.config/karabiner/karabiner.json`を用意
 - ユーザーとグループ -> ログイン項目に追加
 
-### choosy
-
-- [インストール](https://www.choosyosx.com/)
-- General -> Enable Choosyを全チェック
-- Behaviour
-  - Use best running browser
-  - Use my favourite browser
-- Advanced
-  - 「All」「Web address」「contains」「特定のオーガニゼーションのURL」
-  - Always use this browserでSafariを選択
-
 ### SequalPro
 
 - 別の端末から「SequelProFavorites.plist」を持ってきてインポート
