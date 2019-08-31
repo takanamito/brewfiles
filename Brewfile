@@ -11,6 +11,7 @@ install direnv
 install ghq
 install git
 install gpg2
+install graphviz
 install hub
 install jq
 install nkf
