@@ -5,6 +5,7 @@ tap phinze/cask
 tap homebrew/dupes
 tap homebrew/versions
 
+install ack
 install awscli
 install ctags
 install direnv
