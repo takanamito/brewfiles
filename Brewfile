@@ -11,6 +11,7 @@ install ctags
 install direnv
 install ghq
 install git
+install --HEAD goenv
 install gpg2
 install graphviz
 install hub
