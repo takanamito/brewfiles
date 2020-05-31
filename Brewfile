@@ -47,5 +47,6 @@ cask install openoffice
 cask install visual-studio-code
 cask install macdown
 cask install gyazo
+cask install rubymine
 
 cleanup
