@@ -31,6 +31,7 @@ install zsh
 install zsh-completions
 
 cask install bitbar
+cask install discord
 cask install java
 cask install google-chrome
 cask install firefox
