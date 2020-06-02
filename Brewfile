@@ -48,5 +48,6 @@ cask install visual-studio-code
 cask install macdown
 cask install gyazo
 cask install rubymine
+cask install tableplus
 
 cleanup
