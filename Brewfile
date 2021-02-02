@@ -30,23 +30,17 @@ install wget
 install zsh
 install zsh-completions
 
-cask install bitbar
 cask install discord
 cask install java
-cask install google-chrome
-cask install firefox
 cask install iterm2
 cask install sequel-pro
 cask install intellij-idea-ce
 cask install alfred
 cask install bettertouchtool
-cask install sublime-text
 cask install karabiner-elements
 cask install google-japanese-ime
-cask install openoffice
 cask install visual-studio-code
 cask install macdown
-cask install gyazo
 cask install rubymine
 cask install tableplus
 
