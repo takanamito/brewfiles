@@ -1,8 +1,6 @@
 update
 upgrade
 
-tap phinze/cask
-tap homebrew/dupes
 tap homebrew/versions
 
 install ack
@@ -30,18 +28,18 @@ install wget
 install zsh
 install zsh-completions
 
-cask install discord
-cask install java
-cask install iterm2
-cask install sequel-pro
-cask install intellij-idea-ce
-cask install alfred
-cask install bettertouchtool
-cask install karabiner-elements
-cask install google-japanese-ime
-cask install visual-studio-code
-cask install macdown
-cask install rubymine
-cask install tableplus
+install discord
+install java
+install iterm2
+install sequel-pro
+install intellij-idea-ce
+install alfred
+install bettertouchtool
+install karabiner-elements
+install google-japanese-ime
+install visual-studio-code
+install macdown
+install rubymine
+install tableplus
 
 cleanup
