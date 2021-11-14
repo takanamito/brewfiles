@@ -7,8 +7,9 @@
 - install.shを実行
 
 ``` bash
+$ git clone git@github.com:takanamito/brewfiles.git
 $ ./install.sh
-$ ln -s /usr/local/share/git-core/contrib/diff-highlight/diff-highlight /usr/local/bin
+$ ln -s (brew --prefix git)/share/git-core/contrib/diff-highlight/diff-highlight (brew --prefix)/bin
 ```
 
 ## GUI設定
@@ -36,11 +37,11 @@ $ ln -s /usr/local/share/git-core/contrib/diff-highlight/diff-highlight /usr/loc
 ### bettertouchtool
 
 - アプリ起動後 gmail経由でライセンス認証
-- 別のマシンからbettertouchtool.txt_xxx.jsonをもってきて「Manage Presets」ボタンからインポート
+- 別のマシンからbettertouchtool.txt_xxx.jsonをもってきてウィンドウ右上「プリセット」ボタンからインポート
 
 ### Karabiner-Elements
 
-- `~/.config/karabiner/karabiner.json`を用意
+- `~/.config/karabiner/karabiner.json`を「Export & Import」からインポート
 - ユーザーとグループ -> ログイン項目に追加
 
 ### SequalPro
