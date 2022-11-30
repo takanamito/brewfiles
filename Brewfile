@@ -1,11 +1,11 @@
 tap "homebrew/cask"
+tap "dart-lang/dart"
 
 brew "ack"
 brew "ctags"
 brew "direnv"
 brew "ghq"
 brew "git"
-brew "goenv", args: ["HEAD"]
 brew "gpg2"
 brew "hub"
 brew "jq"
@@ -31,3 +31,5 @@ cask "visual-studio-code"
 cask "macdown"
 cask "rubymine"
 cask "goland"
+cask "webstorm"
+cask "datagrip"
