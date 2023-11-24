@@ -44,6 +44,9 @@ $ ln -s (brew --prefix git)/share/git-core/contrib/diff-highlight/diff-highlight
 - `~/.config/karabiner/karabiner.json`を「Export & Import」からインポート
 - ユーザーとグループ -> ログイン項目に追加
 
+### Starship
+- `~/.config/starship.toml` に配置
+
 ### SequalPro
 
 - 別の端末から「SequelProFavorites.plist」を持ってきてインポート
